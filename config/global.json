@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "parseaio": {
+            "applicationId": "auction01",
+            "masterKey": "windowsNT98"
+        }, 
+        "_default": {
+            "link": "parseaio"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
